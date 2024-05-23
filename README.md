@@ -1,6 +1,6 @@
 # Data Science: Practice Repository
 
-Wlecome to the repository for my Data Science Assignments! This repository contains all the assignments I have completed as part of my data science coursework. Each assignment is organized into its own folder, containing the relevant files, code, and documentation.
+Welcome to the repository for my Data Science Assignments! This repository contains all the assignments I have completed as part of my data science coursework. Each assignment is organized into its own folder, containing the relevant files, code, and documentation.
 
 ### Repository Structure
 
